@@ -7,7 +7,7 @@ LLM API (NVIDIA — DeepSeek V4 Flash) istifadə edərək universitet/ixtisas se
 1. Virtual mühit yaradın:
    ```bash
    python -m venv venv
-   source venv/bin/activate   # Windows: venv\Scripts\activate
+   Windows: venv\Scripts\activate
    ```
 
 2. Asılılıqları quraşdırın:
