@@ -1,4 +1,4 @@
-# Abituriyent Dəstək Botu — Checkpoint 2
+# Checkpoint 2
 
 LLM API (NVIDIA — DeepSeek V4 Flash) istifadə edərək universitet/ixtisas seçimi üzrə abituriyentlərə kömək edən dəstək botu. Strukturlaşdırılmış system prompt və few-shot nümunələr vasitəsilə botun cavab dairəsi və tərzi idarə olunur.
 
